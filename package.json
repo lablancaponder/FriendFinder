@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lponder82/FriendFinder.git"
+  },
+  "author": "LaBlanca Ponder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lponder82/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/lponder82/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "materialize-css": "^0.100.2",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
