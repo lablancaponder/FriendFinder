@@ -22,8 +22,8 @@ app.use(bodyParser.json());
 // ==========================================
 
 
-require("./app/routing/apiRoutes")(app);
-require("./app/routing/htmlRoutes")(app);
+require("/app/routing/apiRoutes")(app);
+require("/app/routing/htmlRoutes")(app);
 // LISTEN
 // ==========================================
 app.listen(PORT, function() {
