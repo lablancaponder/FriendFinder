@@ -9,7 +9,7 @@ body #sbody {
     margin-bottom: -5000px;
     font-family: GillSans, Calibri, Trebuchet, sans-serif;
     color: #575757;
-    background-image: url(./img/friendswhiteoverlay.jpg);
+    background-image: url(/public/assets/friendswhiteoverlay.jpg);
     /* background-position: fixed; */
 
   -webkit-background-size: cover;
@@ -33,7 +33,7 @@ body #yellow {
   margin-bottom: -5000px;
   font-family: GillSans, Calibri, Trebuchet, sans-serif;
   color: #575757;
-  background-image: url(./img/friendsblueishoverlay.jpg);
+  background-image: url(/public/assets/friendsblueishoverlay.jpg);
   /* background-position: fixed; */
 
 -webkit-background-size: cover;
